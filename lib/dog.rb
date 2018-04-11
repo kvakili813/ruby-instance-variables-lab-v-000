@@ -3,5 +3,3 @@ end
 
 Lassie = Dog.new
 lassie.name = 'Lassie'
-end
-end
