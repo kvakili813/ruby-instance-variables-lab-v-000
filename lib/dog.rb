@@ -9,5 +9,5 @@ def name
   end
 end
 
-Lassie = Dog.new
-Lassie.name = 'Lassie'
+lassie = Dog.new
+lassie.name = 'Lassie'
